@@ -3,7 +3,9 @@ package lexical_analysis;
 import java.util.LinkedList;
 
 public class Formal_language {
-	
+	/**
+	 * Main Function
+	 */
 	public static void main(String args[]){
 		LinkedList<Token> linkedList = new LinkedList<Token>();
 		System.out.println("Start lexical_analysis...");
