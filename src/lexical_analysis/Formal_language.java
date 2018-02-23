@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 public class Formal_language {
 	/**
-	 * Main Function
+	 * Main Function 2
 	 */
 	public static void main(String args[]){
 		LinkedList<Token> linkedList = new LinkedList<Token>();
